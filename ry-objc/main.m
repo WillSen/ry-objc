@@ -11,7 +11,7 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         double odometer = 9200.8;
-        
+        int odometerAsInteger = (int)odometer;
     }
     return 0;
 }
