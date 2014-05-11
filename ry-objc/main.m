@@ -15,6 +15,9 @@ int main(int argc, const char * argv[]) {
         
         NSLog(@"miles in double format: %.1f \n", odometer);
         NSLog(@"miles in integer format %d", odometerAsInteger);
+        
+        
+        
     }
     return 0;
 }
